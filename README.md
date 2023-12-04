@@ -1,3 +1,5 @@
+Se ha cambiado el valor de age de 25 a 7 para comprobar que el renderizado pedido en el ejercicio funcionaba correctamente.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
